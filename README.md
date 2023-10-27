@@ -2,4 +2,4 @@
 <h3 align="center">Using ReactJs</h3>
 <h3 align="center">ChatGPT" refers to a variant of the GPT (Generative Pre-trained Transformer) model developed by OpenAI, designed specifically for generating human-like text in a conversational or chat-like manner
   </h3>
-<a href='https://www.linkpicture.com/view.php?img=LPic64d6fc41939401332195457'><img src='https://www.linkpicture.com/q/Web-capture_12-8-2023_85259_localhost.jpeg' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic64d6fc41939401332195457'><img src='Screenshot 2023-07-15 111724.png' type='image'></a>
